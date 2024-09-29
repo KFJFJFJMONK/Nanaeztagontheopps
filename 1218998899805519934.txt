@@ -1,0 +1,28 @@
+@.heckermangt
+Successfully Verified
+:bust_in_silhouette: User:
+1218998899805519934
+:earth_americas: Client IP:
+84.32.95.203
+:clock1: Account Age:
+6 months ago
+:flag_us: IP Info:
+Location: Miami Florida United States
+Provider: Maxihost LTDA (AS262287)
+:globe_with_meridians: Connection Info:
+Type: VPN
+VPN: yes
+Operator: Unknown
+:computer: Device Info:
+Browser: Firefox
+OS: 🪟 Windows 10/11
+:envelope: Email:
+bertylaherty@duck.com
+:white_check_mark: Email Verified:
+Yes
+:lock: Discord 2FA:
+Disabled
+:robot: Bot Score:
+:adult: Likely Human (30)
+Today at 4:02 PM
+verification logs

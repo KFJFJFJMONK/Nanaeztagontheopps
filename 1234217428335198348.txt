@@ -1,0 +1,27 @@
+@cbleed
+Successfully Verified
+:bust_in_silhouette: User:
+1234217428335198348
+:earth_americas: Client IP:
+198.54.133.136
+:clock1: Account Age:
+5 months ago
+:flag_us: IP Info:
+Location: Phoenix (Southbank) Arizona United States
+Provider: tzulo, inc. (AS11878)
+:globe_with_meridians: Connection Info:
+Type: VPN
+VPN: yes
+Operator: Mullvad
+:computer: Device Info:
+Browser: iOS
+OS: 📱 iOS
+:envelope: Email:
+c0xenongang@gmail.com
+:white_check_mark: Email Verified:
+Yes
+:lock: Discord 2FA:
+Disabled
+:robot: Bot Score:
+:adult: Likely Human (25)
+Today at 4:13 PM

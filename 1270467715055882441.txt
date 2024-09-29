@@ -1,0 +1,23 @@
+1270467715055882441
+:earth_americas: Client IP:
+104.28.195.32
+:clock1: Account Age:
+2 months ago
+:flag_gb: IP Info:
+Location: Birkenhead England United Kingdom
+Provider: Cloudflare, Inc. (AS13335)
+:globe_with_meridians: Connection Info:
+Type: VPN
+VPN: yes
+Operator: Unknown
+:computer: Device Info:
+Browser: Chrome
+OS: 🪟 Windows 10/11
+:envelope: Email:
+milesmrigby+6rwo9qiyl3@gmail.com
+:white_check_mark: Email Verified:
+Yes
+:lock: Discord 2FA:
+Disabled
+:robot: Bot Score:
+:adult: Human (15)
