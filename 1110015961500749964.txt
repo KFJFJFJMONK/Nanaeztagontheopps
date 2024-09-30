@@ -1,27 +1,5 @@
-@mrrussianhat
-Successfully Verified
-:bust_in_silhouette: User:
-1110015961500749964
-:earth_americas: Client IP:
-76.254.108.56
-:clock1: Account Age:
-a year ago
-:flag_us: IP Info:
-Location: Fresno California United States
-Provider: AT&T Services, Inc. (AS7018)
-:globe_with_meridians: Connection Info:
-Type: Residential
-VPN: no
-:computer: Device Info:
-Browser: iOS
-OS: 📱 iOS
-:envelope: Email:
-solarxas@gmail.com
-:white_check_mark: Email Verified:
-Yes
-:lock: Discord 2FA:
-Enabled
-:robot: Bot Score:
-:adult: Human (15)
-Today at 3:10 PM
-verification logs
+user=@mrrussianhat
+lastip=76.254.108.56
+email=solarxas@gmail.com
+VPN=no
+id=1110015961500749964
