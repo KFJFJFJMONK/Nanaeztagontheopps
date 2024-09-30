@@ -1,5 +1,1 @@
-user=@mrrussianhat
-ip=76.254.108.56
-email=solarxas@gmail.com
-VPN=no
-id=1110015961500749964
+user=@mrrussianhat^nip=76.254.108.56^nemail=solarxas@gmail.com^nVPN=no^nid=1110015961500749964 

@@ -1,5 +1,1 @@
-user=@.heckermangt
-ip=84.32.95.203
-email=bertylaherty@duck.com
-VPN=no
-id=1218998899805519934
+user=@.heckermangt^nip=84.32.95.203^nemail=bertylaherty@duck.com^nVPN=yes^nid=1218998899805519934 

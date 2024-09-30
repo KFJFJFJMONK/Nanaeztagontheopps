@@ -1,5 +1,1 @@
-user=@ipofficial_05397
-ip=82.46.103.118
-email=hackertoplayer@gmail.com
-VPN=no
-id=1200469181380960327
+user=@ipofficial_05397^nip=82.46.103.118^nemail=hackertoplayer@gmail.com^nVPN=no^nid=1200469181380960327 
