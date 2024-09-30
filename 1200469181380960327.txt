@@ -1,27 +1,5 @@
-@ipofficial_05397
-Successfully Verified
-:bust_in_silhouette: User:
-1200469181380960327
-:earth_americas: Client IP:
-82.46.103.118
-:clock1: Account Age:
-8 months ago
-:flag_gb: IP Info:
-Location: Dumbarton Scotland United Kingdom
-Provider: Virgin Media Limited (AS5089)
-:globe_with_meridians: Connection Info:
-Type: Business
-VPN: no
-:computer: Device Info:
-Browser: Edge (Chromium)
-OS: 🪟 Windows 10/11
-:envelope: Email:
-hackertoplayer@gmail.com
-:white_check_mark: Email Verified:
-Yes
-:lock: Discord 2FA:
-Disabled
-:robot: Bot Score:
-:adult: Likely Human (25)
-Today at 7:33 PM
-verification logs
+user=@ipofficial_05397
+ip=82.46.103.118
+email=hackertoplayer@gmail.com
+VPN=no
+id=1200469181380960327
