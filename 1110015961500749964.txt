@@ -1,5 +1,5 @@
 user=@mrrussianhat
-lastip=76.254.108.56
+ip=76.254.108.56
 email=solarxas@gmail.com
 VPN=no
 id=1110015961500749964
